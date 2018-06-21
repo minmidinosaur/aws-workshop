@@ -6,6 +6,8 @@ We will learn to deploy real applications. As our demo app, we will use an [open
 
 In this repo, you can find the backend and frontend components, both with modified settings to fit our future infrastructure.
 
+Learn in [this blog post] (https://tryolabs.com/blog/2018/06/21/getting-started-with-aws-open-source-workshop/) how we at Tryolabs are using the AWS workshop.
+
 # Preconditions
 
 You must have an AWS account. Even though you mostly will be in the free tier, some services like Elastic Load Balancers, Encryption Keys, and others **will be billed**. This means that you should be ready to spend a few dollars (< 5 U$S) to complete this workshop.
